@@ -1,12 +1,12 @@
-# Munition Crater Detection in Synthetic Aperture Radar Imagery Using Deep Learning
+# Munition Crater Detection in Synthetic Aperture Radar Imagery Using Deep Learning (Incomplete)
 
 A demonstration of high resolution synthetic aperture radar (SAR) imagery segmentation for the detection of munitions-produced craters using a U-Net convolutional neural network (CNN) implemented in PyTorch.
 
-***CONTENTS*
+##### CONTENTS
 
 ## General Information
 
-This project was initially completed as the capstone for the Masters in Geospatial Intelligence Program at The University of Maryland in Fall of 2023.
+This project was initially completed as the capstone for the Masters in Geospatial Intelligence Program at The University of Maryland in Fall of 2023. Minor revisions Feb, 2025.
 
 Author: Michael Prihoda
 Mentor: Dr. Sergi Skakun
